@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333026925461",
+    "project_id": "reactnativedemo-b1247",
+    "storage_bucket": "reactnativedemo-b1247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333026925461:android:a460cbd1ea497c46def49c",
+        "android_client_info": {
+          "package_name": "com.naukri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333026925461-729hqm6v4rs438hdcqojd9idc6dd7ols.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naukri",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "333026925461-4jrunlhah3mje0g6lranoijnalpkdkbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc7zQDTlPTs0eTIwv5xWGxeRui9p03MiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333026925461-4jrunlhah3mje0g6lranoijnalpkdkbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
